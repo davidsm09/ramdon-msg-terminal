@@ -1,0 +1,24 @@
+{
+  "name": "ramdon-msg-terminal",
+  "version": "1.0.0",
+  "description": "Mensajes aleatorios en la terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsm09/ramdon-msg-terminal.git"
+  },
+  "keywords": [],
+  "author": "David Mesa <mezad55@gamil.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidsm09/ramdon-msg-terminal/issues"
+  },
+  "homepage": "https://github.com/davidsm09/ramdon-msg-terminal#readme",
+  "bin": {
+    "ramdon-msg-terminal": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
